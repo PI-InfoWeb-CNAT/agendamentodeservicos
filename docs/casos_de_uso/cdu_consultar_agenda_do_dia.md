@@ -38,7 +38,7 @@ O sistema apresenta a agenda do profissional ou da empresa para a data e o servi
 
 | Extensão | Sistema |
 |:--------|:--------|
-| 1. Agendamento do Serviço | Se o usuário selecionar a opção de agendar um serviço a partir da agenda, o caso de uso Agendar um Serviço deve ser iniciado. |
+| 1. Agendar um Serviço | Se o usuário selecionar a opção de agendar um serviço a partir da agenda, o caso de uso Agendar um Serviço deve ser iniciado. |
 
 #### 5.3. Fluxo de Exceção
 

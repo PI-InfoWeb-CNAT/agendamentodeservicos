@@ -34,13 +34,7 @@ O sistema apresenta a agenda do profissional ou da empresa para a data e o servi
 | 2. O usuário ajusta, se necessário, os controles de seleção de data e serviço e submete a consulta ao sistema. ||
 || 3. O sistema apresenta no formato de tabela os horários da agenda do dia e serviço informados, disponibilizando uma opção de agendar um serviço (do tipo informado) em horários que ainda estejam disponíveis. O sistema pode apresentar todos os horários da agenda do dia, mas sem apresentar dados de outros clientes. |
 
-#### 5.2. Fluxo Alternativo
-
-| Extensão | Sistema |
-|:--------|:--------|
-| 1. Agendar um Serviço | Se o usuário selecionar a opção de agendar um serviço a partir da agenda, o caso de uso Agendar um Serviço deve ser iniciado. |
-
-#### 5.3. Fluxo de Exceção
+#### 5.2. Fluxo de Exceção
 
 | Exceção | Sistema |
 |:--------|:--------|

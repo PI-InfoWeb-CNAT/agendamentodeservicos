@@ -34,15 +34,7 @@ O sistema apresenta a agenda do profissional ou da empresa para a data e o servi
 | 2. O funcionário ajusta, se necessário, os controles de seleção de data e serviço e submete a consulta ao sistema. ||
 || 3. O sistema apresenta no formato de tabela os horários da agenda do dia e serviço informados, disponibilizando as opções de confirmar um agendamento e excluir um agendamento, para cada horário da agenda, e de abrir a agenda do dia, para gerenciar o cadastro de horários disponíveis. O sistema deve apresentar todos os horários da agenda do dia, informando os dados dos clientes. |
 
-#### 5.2. Fluxo Alternativo
-
-| Extensão | Sistema |
-|:--------|:--------|
-| 1. Abrir Agenda do Dia | Se o usuário selecionar a opção Abrir Agenda do Dia, o caso de uso Abrir Agenda do Dia deve ser iniciado, permitindo inserir, editar, alterar e excluir horários da agenda. |
-| 2. Confirmar Agendamento | Se o usuário selecionar a opção Confirmar Agendamento, o caso de uso Confirmar Agendamento deve ser iniciado, realizando a confirmação do agendamento realizado pelo cliente. |
-| 3. Excluir Agendamento | Se o usuário selecionar a opção Excluir Agendamento, o caso de uso Excluir Agendamento deve ser iniciado, realizando o cancelamento do agendamento realizado pelo cliente. |
-
-#### 5.3. Fluxo de Exceção
+#### 5.2. Fluxo de Exceção
 
 | Exceção | Sistema |
 |:--------|:--------|

@@ -12,7 +12,7 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
 * Documento de Requisitos
 
-* Diagrama de casos de uso
+* [Diagrama de casos de uso](.docs/diagramas/diagrama_casos_de_uso.jpg)
 
 * Detalhamento de casos de uso 
 
@@ -22,6 +22,6 @@ Todo material está publicado sob licença [GPL-3.0](https://www.gnu.org/license
 
   3. [Dashboard de Agenda](./docs/casos_de_uso/cdu_dashboard_de_agenda.md)
 
-* Diagrama de classes de domínio
+* [Diagrama de classes de domínio](.docs/diagramas/diagrama_classes.jpg)
 
 * Diagrama de arquitetura

@@ -7,6 +7,7 @@
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
 | 16/07/2021 | **1.00** | Versão Inicial  | Gilbert Azevedo |
+| 09/05/2022 | **1.10** | Ajustes da redação | Gilbert Azevedo |
 
 ### 1. Resumo 
 
@@ -30,9 +31,10 @@ O sistema apresenta a agenda do profissional ou da empresa para a data e o servi
 
 | Ator   | Sistema |
 |:-------|:--------|
-|| 1. O sistema apresenta o painel de controle da agenda com controles que permitem ao funcionário selecionar uma data e um serviço. O controle de seleção de data deve iniciar no dia atual. O controle de seleção de serviço deve iniciar vazio, se houver mais de um tipo de serviço disponível, ou com o serviço selecionado, caso apenas um serviço esteja disponível. |
-| 2. O funcionário ajusta, se necessário, os controles de seleção de data e serviço e submete a consulta ao sistema. ||
-|| 3. O sistema apresenta no formato de tabela os horários da agenda do dia e serviço informados, disponibilizando as opções de confirmar um agendamento e excluir um agendamento, para cada horário da agenda, e de abrir a agenda do dia, para gerenciar o cadastro de horários disponíveis. O sistema deve apresentar todos os horários da agenda do dia, informando os dados dos clientes. |
+| 1. O usuário acessa o painel de controle da agenda. ||
+|| 2. O sistema apresenta o painel de controle com controles que permitem ao usuário selecionar uma data e um serviço. O controle de seleção de data deve iniciar no dia atual. O controle de seleção de serviço deve iniciar vazio, se houver mais de um tipo de serviço disponível, ou com o serviço selecionado, caso apenas um serviço esteja disponível. |
+| 3. O usuário ajusta, se necessário, os controles de seleção de data e serviço e submete a consulta ao sistema. ||
+|| 4. O sistema apresenta no formato de tabela os horários da agenda do dia e serviço informados, disponibilizando as opções de confirmar um agendamento e excluir um agendamento, para cada horário da agenda, e de abrir a agenda do dia, para gerenciar o cadastro de horários disponíveis. O sistema deve apresentar todos os horários da agenda do dia, informando os dados dos clientes. |
 
 #### 5.2. Fluxo de Exceção
 

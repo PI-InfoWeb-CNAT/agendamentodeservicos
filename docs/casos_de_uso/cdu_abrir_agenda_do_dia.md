@@ -7,10 +7,11 @@
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
 | 16/07/2021 | **1.00** | Versão Inicial  | Gilbert Azevedo |
+| 16/05/2021 | **1.10** | Ajustes na redação  | Gilbert Azevedo |
 
 ### 1. Resumo 
 
-Nesse caso de uso, o usuário funcionário acessa o sistema e visualiza a agenda de um serviço específico em uma determinada data, podendo listar os horários cadastrados na agenda, inserir novos horários, atualizar e excluir horários existentes.
+Nesse caso de uso, o usuário funcionário acessa o sistema e gerencia sua agenda, ou a agenda da empresa, inserir novos horários de atendimento, atualizar horários existentes ou, até mesmo, excluindo horários ainda não agendados por clientes.
 
 ### 2. Atores 
 
@@ -30,8 +31,8 @@ O sistema disponibiliza os horários cadastrados na agenda para que os clientes 
 
 | Ator   | Sistema |
 |:-------|:--------|
-| 1. O usuário seleciona um serviço e data específicos para consulta a agenda do dia ||
-|| 2. O sistema lista os horários da agenda para os dados informados, permitindo inserir novos horários na agenda desse dia, atualizar as informações de um horário da agenda e excluir horários não agendados por clientes. |
+| 1. O usuário abre a agenda de um determinado dia, a partir do painel de controle (dashborad) da agenda ||
+|| 2. O sistema lista os horários da agenda do dia informado, permitindo inserir novos horários na agenda desse dia, atualizar as informações de um horário da agenda e excluir horários não agendados por clientes. |
 
 #### 5.2. Fluxos de Exceção
 

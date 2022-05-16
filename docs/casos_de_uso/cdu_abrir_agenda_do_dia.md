@@ -11,7 +11,7 @@
 
 ### 1. Resumo 
 
-Nesse caso de uso, o usuário funcionário acessa o sistema e gerencia sua agenda, ou a agenda da empresa, inserir novos horários de atendimento, atualizar horários existentes ou, até mesmo, excluindo horários ainda não agendados por clientes.
+Nesse caso de uso, o usuário funcionário acessa o sistema e gerencia sua agenda, ou a agenda da empresa, podendo: inserir novos horários de atendimento, atualizar horários existentes ou, até mesmo, excluindo horários ainda não agendados por clientes.
 
 ### 2. Atores 
 
